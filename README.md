@@ -57,7 +57,7 @@ After running the pipeline, you'll get:
 - `data/cleaned/outstanding_players_*.csv` - Top players by category
 
 ### Visualizations
-- `plots/outstanding_players.png` - Top performers visualization
+- `plots/outstanding_players_comprehensive.png` - Top performers visualization
 - `plots/player_outliers_analysis.png` - Outlier detection results
 - `plots/feature_importance.png` - Model feature importance
 
