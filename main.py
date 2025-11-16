@@ -9,11 +9,6 @@ from game_predictor import predict_specific_game
 if __name__ == "__main__":
     run_full_pipeline()
     
-    # predict_specific_game("Lakers", "Celtics")
-    # predict_specific_game("Chicago", "New York") 
-    # predict_specific_game("Bulls", "Knicks")
-    # predict_specific_game("MIA", "BOS") 
-    
     predict_specific_game("Celtics", "Knicks")
     predict_specific_game("Bulls", "Knicks")
     predict_specific_game("Heat", "Celtics") 
